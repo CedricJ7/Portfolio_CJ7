@@ -1,4 +1,4 @@
-# Portfolio Cédric Jestin - Design Modernisé
+# Portfolio Cédric Jestin - Mars 2025
 
 Ce portfolio a été totalement repensé pour offrir une expérience utilisateur moderne, professionnelle et immersive. Voici les principaux changements et fonctionnalités :
 

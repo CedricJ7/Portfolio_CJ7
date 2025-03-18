@@ -8,20 +8,6 @@ Ce portfolio a été totalement repensé pour offrir une expérience utilisateur
 - **Palette de couleurs** : Bleu nuit, bleu électrique, blanc éclatant et nuances de gris, créant une ambiance sophistiquée et technologique.
 - **Effets visuels** : Utilisation d'effets de verre (glassmorphism), de néons, et de dégradés subtils pour une expérience visuelle moderne.
 
-## 🧠 Navigation Repensée
-
-- **Menu hamburger intelligent** : Remplacement du menu fixe par un menu hamburger élégant qui apparaît au clic.
-- **Transitions fluides** : Animations d'apparition et de disparition du menu pour une expérience fluide.
-- **Menu contextuel** : Le menu s'adapte au défilement, avec un fond transparent en haut de page et un fond semi-transparent lors du défilement.
-
-## 🚀 Nouvelles Fonctionnalités
-
-- **Logos de technologies** : Intégration visuelle des technologies maîtrisées (Python, R, VS Code, Power BI) avec info-bulles et animations.
-- **Barres de compétences** : Visualisation des niveaux de compétence avec des barres animées.
-- **Sections interactives** : Les outils préférés sont maintenant interactifs - cliquez sur un outil pour voir sa description détaillée.
-- **Étiquettes technologiques** : Chaque projet affiche désormais les technologies utilisées sous forme d'étiquettes.
-- **Curseur personnalisé** : Un curseur fluide et stylisé qui réagit aux éléments interactifs (disponible sur desktop).
-
 ## 💻 Responsive et Adaptatif
 
 - **Pleinement responsive** : Adaptation parfaite sur tous les appareils (desktop, tablette, mobile).
@@ -40,18 +26,8 @@ Ce portfolio a été totalement repensé pour offrir une expérience utilisateur
 - **Navigateurs pris en charge** : Chrome, Firefox, Safari, Edge (dernières versions)
 - **Appareils pris en charge** : Desktop, tablette, mobile
 
-## 🔄 Changements Spécifiques
 
-- Suppression du logo "CJ" pour un design plus épuré
-- Remplacement du menu fixe par un menu hamburger moderne
-- Ajout de logos et badges pour les technologies
-- Utilisation de l'image NIPS comme fond principal
-- Amélioration des animations et transitions
-- Restructuration des sections pour une meilleure hiérarchie visuelle
 
----
-
-Conçu avec ❤️ pour Cédric Jestin
 
 ## Structure du Portfolio
 
@@ -88,4 +64,4 @@ Vous pouvez personnaliser ce portfolio en :
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails. 
+Ce projet est libre de droit.
